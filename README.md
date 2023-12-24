@@ -1,5 +1,5 @@
-# IEEECSC-Task
-- A task to reach qualifications for joining the team and reach the interview stage.
+# Data cleaning practice
+- It's IEEECSC task to reach qualifications for joining the team and reach the interview stage.
 - Read the pdf well to understand the features.
 - The data is provided in an Excel file.
 - The required task is to demonstrate - after cleaning - the most 10 hated and loved chocolates(candy) in the world.
